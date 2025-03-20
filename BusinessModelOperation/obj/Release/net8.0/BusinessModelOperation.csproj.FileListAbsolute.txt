@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\BusinessModelOperation\bin\Release\net8.0\BusinessModelOperation.deps.json
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\BusinessModelOperation\bin\Release\net8.0\BusinessModelOperation.dll
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\BusinessModelOperation\bin\Release\net8.0\BusinessModelOperation.pdb
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\BusinessModelOperation\bin\Release\net8.0\BusinessModels.dll
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\BusinessModelOperation\bin\Release\net8.0\CommonOperation.dll
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\BusinessModelOperation\bin\Release\net8.0\BusinessModels.pdb
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\BusinessModelOperation\bin\Release\net8.0\CommonOperation.pdb
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\BusinessModelOperation\obj\Release\net8.0\BusinessModelOperation.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\BusinessModelOperation\obj\Release\net8.0\BusinessModelOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\BusinessModelOperation\obj\Release\net8.0\BusinessModelOperation.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\BusinessModelOperation\obj\Release\net8.0\BusinessModelOperation.AssemblyInfo.cs
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\BusinessModelOperation\obj\Release\net8.0\BusinessModelOperation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\BusinessModelOperation\obj\Release\net8.0\Business.84F7A288.Up2Date
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\BusinessModelOperation\obj\Release\net8.0\BusinessModelOperation.dll
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\BusinessModelOperation\obj\Release\net8.0\refint\BusinessModelOperation.dll
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\BusinessModelOperation\obj\Release\net8.0\BusinessModelOperation.pdb
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\BusinessModelOperation\obj\Release\net8.0\ref\BusinessModelOperation.dll

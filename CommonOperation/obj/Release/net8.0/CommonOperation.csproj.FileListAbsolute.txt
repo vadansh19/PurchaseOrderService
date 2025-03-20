@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\CommonOperation\bin\Release\net8.0\CommonOperation.deps.json
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\CommonOperation\bin\Release\net8.0\CommonOperation.dll
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\CommonOperation\bin\Release\net8.0\CommonOperation.pdb
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\CommonOperation\obj\Release\net8.0\CommonOperation.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\CommonOperation\obj\Release\net8.0\CommonOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\CommonOperation\obj\Release\net8.0\CommonOperation.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\CommonOperation\obj\Release\net8.0\CommonOperation.AssemblyInfo.cs
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\CommonOperation\obj\Release\net8.0\CommonOperation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\CommonOperation\obj\Release\net8.0\CommonOperation.dll
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\CommonOperation\obj\Release\net8.0\refint\CommonOperation.dll
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\CommonOperation\obj\Release\net8.0\CommonOperation.pdb
+C:\Users\Admin\Documents\PurchaseOrderService\PurchaseOrderService\CommonOperation\obj\Release\net8.0\ref\CommonOperation.dll

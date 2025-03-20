@@ -1,0 +1,128 @@
+[
+  {
+    "ContainingType": "PurchaseOrderService.Controllers.MaterialController",
+    "Method": "AddMaterial",
+    "RelativePath": "AddMaterial",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "materialDetails",
+        "Type": "BusinessModels.MaterialDetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PurchaseOrderService.Controllers.VendorController",
+    "Method": "AddVendor",
+    "RelativePath": "AddVendor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vendorDetails",
+        "Type": "BusinessModels.VendorDetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PurchaseOrderService.Controllers.PurchaseOrderController",
+    "Method": "CreateNewOrder",
+    "RelativePath": "CreateNewOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createOrderBO",
+        "Type": "BusinessModels.PurchaseOrderModel.CreateOrderBO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PurchaseOrderService.Controllers.MaterialController",
+    "Method": "DeleteMatrial",
+    "RelativePath": "DeleteMatrial",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "materialID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PurchaseOrderService.Controllers.VendorController",
+    "Method": "GetVendorList",
+    "RelativePath": "DeleteVendor",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "VendorID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PurchaseOrderService.Controllers.MaterialController",
+    "Method": "GetMaterialList",
+    "RelativePath": "GetMaterialList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PurchaseOrderService.Controllers.PurchaseOrderController",
+    "Method": "GetOrderList",
+    "RelativePath": "GetOrderList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PurchaseOrderService.Controllers.PurchaseOrderController",
+    "Method": "GetSingleOrderDetails",
+    "RelativePath": "GetSingleOrderDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "OrderNo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PurchaseOrderService.Controllers.VendorController",
+    "Method": "GetVendorList",
+    "RelativePath": "GetVendorList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
